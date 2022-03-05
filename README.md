@@ -2,6 +2,7 @@
 Patika.Dev  Logo .Net Core Homeworks
    
    Ödev 1
+
 Bir adet form oluşturulacak. Form içinde ad soyad email ve password için input olacak.(Login ekranı gibi)
 
 Api yazılacak ve HttPost methodunu kullanacak.
