@@ -31,6 +31,7 @@ namespace HomeworkTwo.Controllers
         [Route("NotVisible")]
    
         //this endpoint will be hidden in swagger
+        //SwaggerCustomFilter is used for hidden
         public IActionResult NotVisible()
         {
             return Ok();
