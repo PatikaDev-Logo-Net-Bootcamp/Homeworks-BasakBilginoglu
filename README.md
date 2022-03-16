@@ -1,5 +1,5 @@
 # Homeworks-BasakBilginoglu
-Patika.Dev  Logo .Net Core Homeworks
+Patika.Dev  Logo .Net Bootcamp Homeworks
    
  
 
