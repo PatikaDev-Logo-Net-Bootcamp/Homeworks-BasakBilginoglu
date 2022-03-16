@@ -8,12 +8,8 @@ namespace HomeworkTwo.Filters
     {
         public void Apply(OpenApiDocument swaggerDoc, DocumentFilterContext context)
         {
-            //var nonMobileRoutes = swaggerDoc.Paths
-            //    .Where(x => !x.Key.ToLower().Contains("NotVisible"))
-            //    .ToList();
-            ////nonMobileRoutes.ForEach(x => { swaggerDoc.Paths.Remove(x.Key); });
-           
-            //if there exist NotVisible in SwaggerDoc's path key is removed
+             
+             //if there exist NotVisible in SwaggerDoc's path key is removed
             var nonMobileRoutes = swaggerDoc.Paths.SingleOrDefault(x => x.Key.Contains("NotVisible"));
             swaggerDoc.Paths.Remove(nonMobileRoutes.Key);
         }
