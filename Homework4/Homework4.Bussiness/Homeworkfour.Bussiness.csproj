@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Reflection\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Homework4.DataAccess.EntityFramework.Repository\Homeworkfour.DataAccess.EntityFramework.Repository.csproj" />
+    <ProjectReference Include="..\Homework4.DataAccess.EntityFramework\Homeworkfour.DataAccess.EntityFramework.csproj" />
+    <ProjectReference Include="..\Homework4.Domain\Homeworkfour.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

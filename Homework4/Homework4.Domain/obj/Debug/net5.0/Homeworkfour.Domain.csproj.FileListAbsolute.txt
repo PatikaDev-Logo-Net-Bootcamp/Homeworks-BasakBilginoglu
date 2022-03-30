@@ -1,0 +1,12 @@
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\bin\Debug\net5.0\Homeworkfour.Domain.deps.json
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\bin\Debug\net5.0\Homeworkfour.Domain.dll
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\bin\Debug\net5.0\Homeworkfour.Domain.pdb
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\obj\Debug\net5.0\Homeworkfour.Domain.csproj.AssemblyReference.cache
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\obj\Debug\net5.0\Homeworkfour.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\obj\Debug\net5.0\Homeworkfour.Domain.AssemblyInfoInputs.cache
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\obj\Debug\net5.0\Homeworkfour.Domain.AssemblyInfo.cs
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\obj\Debug\net5.0\Homeworkfour.Domain.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\obj\Debug\net5.0\Homeworkfour.Domain.dll
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\obj\Debug\net5.0\refint\Homeworkfour.Domain.dll
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\obj\Debug\net5.0\Homeworkfour.Domain.pdb
+C:\Users\developer\source\repos\Homework4\Homework4.Domain\obj\Debug\net5.0\ref\Homeworkfour.Domain.dll

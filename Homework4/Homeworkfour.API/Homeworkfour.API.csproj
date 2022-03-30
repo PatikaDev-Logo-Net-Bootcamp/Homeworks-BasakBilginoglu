@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="System.Linq.Expressions" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Homework4.Bussiness\Homeworkfour.Bussiness.csproj" />
+    <ProjectReference Include="..\Homework4.DataAccess.EntityFramework.Repository\Homeworkfour.DataAccess.EntityFramework.Repository.csproj" />
+    <ProjectReference Include="..\Homework4.DataAccess.EntityFramework\Homeworkfour.DataAccess.EntityFramework.csproj" />
+  </ItemGroup>
+
+</Project>
