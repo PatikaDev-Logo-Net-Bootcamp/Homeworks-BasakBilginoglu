@@ -38,7 +38,7 @@ namespace Homeworkfour.Bussiness.Concretes
                 return null;
             }
 
-            // Else we generate JSON Web Token
+            
             var tokenHandler = new JwtSecurityTokenHandler();
             var tokenKey = Encoding.UTF8.GetBytes(configuration["JWT:Key"]);
             var tokenDescriptor = new SecurityTokenDescriptor
