@@ -1,0 +1,12 @@
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\bin\Debug\net5.0\XUnitSample.deps.json
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\bin\Debug\net5.0\XUnitSample.dll
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\bin\Debug\net5.0\XUnitSample.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\obj\Debug\net5.0\XUnitSample.csproj.AssemblyReference.cache
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\obj\Debug\net5.0\XUnitSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\obj\Debug\net5.0\XUnitSample.AssemblyInfoInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\obj\Debug\net5.0\XUnitSample.AssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\obj\Debug\net5.0\XUnitSample.csproj.CoreCompileInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\obj\Debug\net5.0\XUnitSample.dll
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\obj\Debug\net5.0\refint\XUnitSample.dll
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\obj\Debug\net5.0\XUnitSample.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\XUnitSample\obj\Debug\net5.0\ref\XUnitSample.dll

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>dotnet-JsonPlaceHolderPostRecord-5D66DB7F-CCE1-40C3-911E-765F8A0F64A7</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\First.App.Core\First.App.Business.csproj" />
+    <ProjectReference Include="..\First.App.DataAccess.EntityFramework.Repository\First.App.DataAccess.EntityFramework.Repository.csproj" />
+    <ProjectReference Include="..\First.App.DataAccess.EntityFramework\First.App.DataAccess.EntityFramework.csproj" />
+    <ProjectReference Include="..\First.App.Domain\First.App.Domain.csproj" />
+  </ItemGroup>
+</Project>

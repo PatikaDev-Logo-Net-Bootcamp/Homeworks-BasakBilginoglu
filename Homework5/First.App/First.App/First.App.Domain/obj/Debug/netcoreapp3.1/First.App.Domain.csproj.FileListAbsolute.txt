@@ -1,0 +1,40 @@
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.deps.json
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.AssemblyReference.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfoInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfo.cs
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\skayikci\source\repos\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\samet\Desktop\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.deps.json
+C:\Users\samet\Desktop\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\samet\Desktop\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\samet\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfo.cs
+C:\Users\samet\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\samet\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.deps.json
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.AssemblyReference.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfoInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfo.cs
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\HP GAMİNG\Desktop\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.deps.json
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\bin\Debug\netcoreapp3.1\First.App.Domain.pdb
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.AssemblyReference.cache
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfoInputs.cache
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.AssemblyInfo.cs
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.dll
+C:\Users\developer\Downloads\First.App (1)\First.App\First.App.Domain\obj\Debug\netcoreapp3.1\First.App.Domain.pdb
